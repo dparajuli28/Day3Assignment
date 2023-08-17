@@ -1,0 +1,22 @@
+.container {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+   }
+   
+   img {
+    padding: auto;
+
+   }
+   
+   .text {
+     font-size: 70px;
+   }
+   *{
+    background-color: black;
+    color: white    ;
+   }
+   template{
+    color: white;
+   }
